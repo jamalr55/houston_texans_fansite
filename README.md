@@ -1,4 +1,6 @@
-# Houston Texans Fansite
+# Jamal's Porfolio Website 8
+
+Houston Texans Fansite
 
 This is a React.js website with an API I create using HTML, CSS, and Javascript. It is hosted on Google Firebase: https://houston-texans.firebaseapp.com
 
