@@ -5,13 +5,13 @@ import 'firebase/auth';
 import 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCv3Ck-lWiHL_mf0uwxbllrv4lBLRcM2A0",
-  authDomain: "houston-texans.firebaseapp.com",
-  databaseURL: "https://houston-texans.firebaseio.com",
-  projectId: "houston-texans",
-  storageBucket: "gs://houston-texans.appspot.com",
-  messagingSenderId: "102472113458",
-  appId: "1:102472113458:web:e8847164a5cbe9eee0cb2b",
+  apiKey: <ADD firebase apiKey>,
+  authDomain: <ADD firebase authDomain>,
+  databaseURL: <ADD firebase databaseURL>,
+  projectId: <ADD firebase projectId>,
+  storageBucket: <ADD firebase storageBucket>,
+  messagingSenderId: <ADD firebase messagingSenderId>,
+  appId: <ADD firebase apiId>,
 };
 
 firebase.initializeApp(firebaseConfig);
